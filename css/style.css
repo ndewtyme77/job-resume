@@ -531,6 +531,15 @@ ol {
 	margin-bottom: 0;
 }
 
+.resume-list ul li {
+	margin-bottom: 5%;
+	Margin-left: 5%;
+	margin-top: 5%;
+	font-size: 18px;
+	color: #808181;
+	line-height: 1.8;
+	list-style-type: none;
+}
 /*---------------------
 	Review section
 -----------------------*/
